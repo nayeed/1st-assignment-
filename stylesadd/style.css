@@ -1,0 +1,221 @@
+
+
+*{
+  margin: 0;
+  padding: 0;
+    font-family: 'Merriweather', serif;
+font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.A {
+  border-radius: 16px;
+  background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('Banner\ Image.png');
+  background-size: cover;
+  background-position: center;
+  width: 1320px;
+  height: 600px;
+}
+
+.B {
+
+  padding: 177px 344px;
+}
+
+.c {
+  color: #FFF;
+  text-align: center;
+  
+  font-size: 32px;
+  
+  font-weight: 400;
+  margin-bottom: 16px;
+}
+
+.d {
+  color: #FFF;
+  text-align: center;
+  
+  font-size: 72px;
+  
+  font-weight: 900;
+  margin: 0px  
+}
+.offer{color: #F00;
+  text-align: center;
+  
+  font-size: 88px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;}
+  .offerp{
+    color: #F00;
+text-align: center;
+
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+  }
+.offerp2{
+  color: #070211;
+text-align: center;
+
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+  .image2 {
+    margin-left: 399;
+    justify-content: center;
+    align-items: center;
+    height: 7335px;
+    width: 802.9px;
+height: 555px;
+}
+
+   
+  
+.mid-conteiner{
+  display: flex;
+  background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),url(Vectorrr.png);
+
+margin-bottom: 80px;
+}
+.mid-content{
+  color: #FFF;
+
+font-size: 60px;
+font-style: normal;
+font-weight: 900;
+line-height: 88px; /* 137.5% */
+letter-spacing: 7.04px;
+
+}
+.child{
+  color: rgba(255, 255, 255, 0.80);
+
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+}
+.button1{
+  color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+}
+.nextline{
+  background-color: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+  
+  fill: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+  text-align: center;
+
+  color: #070211;
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+line-height: 56px;
+text-transform: capitalize;
+}
+.placec{
+  color: #F00;
+}
+.datec{
+  color: #F00;
+}
+.timec{
+  color: #F00;
+}
+.b2{
+  background-color: #F00;
+  border-radius: 16 px;
+  color: #FFF;
+  border: #F00;
+  display: inline-flex
+  padding: 20px 52px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;}
+  .cci{
+    display: flex;
+    margin: auto;
+  }
+  .cci2{
+    display: flex;
+    margin: auto;
+  }
+  .climage{
+    width: 150px;
+height: 150px;
+flex-shrink: 0;
+  }
+  .cl{
+    margin-right: 50%;
+    align-items: center;
+    width: 1320px;
+height: 616px;
+flex-shrink: 0;
+  }
+  .cltext{
+    color: #070211;
+text-align: center;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+  }
+  .cltextp{
+    color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 160% */
+  }
+  .sb{
+    width: 648px;
+    height: 72px;
+    flex-shrink: 0;
+  }
+  .cip{
+    display: flex;
+  }
+  .footer{
+    
+    width: 1600px;
+height: 609px;
+flex-shrink: 0;
+  }
+.bg{
+  display: flex;
+  background-color: rgb(104, 102, 102);
+  background-size: cover;
+   
+    justify-content: space-between
+    
+}
+.fc{display: flex;}
+
+
+
+
+
+
+
+
+
+
